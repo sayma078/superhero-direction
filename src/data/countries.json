@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "United States",
+    "Capital": "Wahington,D.C",
+    "Region": "North America",
+    "Cases": 43725604,
+    "Death": 70605,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/US_flag_51_stars.svg/220px-US_flag_51_stars.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "India",
+    "Capital": "New Delhi",
+    "Region": "Asia",
+    "Cases": 33651221,
+    "Death": 44694,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Brazil",
+    "Capital": "Brasilia",
+    "Region": "South America",
+    "Cases": 21343304,
+    "Death": 59424,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "United Kingdom",
+    "Capital": "London",
+    "Region": "Europe",
+    "Cases": 7631233,
+    "Death": 13610,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/2560px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "Russia",
+    "Capital": "Moscow",
+    "Region": "Europe",
+    "Cases": 7398415,
+    "Death": 20309,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/255px-Flag_of_Russia.svg.png"
+  },
+  {
+    "id": 6,
+    "name": "Turkey",
+    "Capital": "Ankara",
+    "Region": "Asia",
+    "Cases": 7013639,
+    "Death": 6293,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/220px-Flag_of_Turkey.svg.png"
+  },
+  {
+    "id": 7,
+    "name": "France",
+    "Capital": "Paris",
+    "Region": "Europe",
+    "Cases": 6989613,
+    "Death": 11644,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png"
+  },
+  {
+    "id": 8,
+    "name": "Iran",
+    "Capital": "Tehran",
+    "Region": "Asia",
+    "Cases": 5519728,
+    "Death": 11908,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/255px-Flag_of_Iran.svg.png"
+  },
+  {
+    "id": 9,
+    "name": "Argentina",
+    "Capital": "Buenos Aires",
+    "Region": "South America",
+    "Cases": 5249840,
+    "Death": 11484,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/300px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "id": 10,
+    "name": "Colombia",
+    "Capital": "Bogota",
+    "Region": "South America",
+    "Cases": 4950253,
+    "Death": 12610,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png"
+  },
+  {
+    "id": 11,
+    "name": "Spain",
+    "Capital": "Madrid",
+    "Region": "Europe",
+    "Cases": 4750253,
+    "Death": 8622,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png"
+  },
+  {
+    "id": 12,
+    "name": "Italy",
+    "Capital": "Rome",
+    "Region": "Europe",
+    "Cases": 4657215,
+    "Death": 13065,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/220px-Flag_of_Italy.svg.png"
+  },
+  {
+    "id": 13,
+    "name": "Canada",
+    "Capital": "Ottawa",
+    "Region": "North America",
+    "Cases": 1600901,
+    "Death": 2754,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"
+  },
+  {
+    "id": 14,
+    "name": "Bangadesh",
+    "Capital": "Dhaka",
+    "Region": "Asia",
+    "Cases": 1550371,
+    "Death": 2739,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/255px-Flag_of_Bangladesh.svg.png"
+  },
+  {
+    "id": 15,
+    "name": "Thailand",
+    "Capital": "Bangkok",
+    "Region": "Asia",
+    "Cases": 1500231,
+    "Death": 1626,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/255px-Flag_of_Thailand.svg.png"
+  }
+]

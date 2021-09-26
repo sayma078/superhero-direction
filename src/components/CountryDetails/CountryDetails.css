@@ -1,0 +1,13 @@
+.card-info{
+    text-align: center;
+    border: 2px solid crimson ;
+    border-radius: 10px;
+    background-color: lightcoral;
+    /* gap: 20px; */
+    
+    
+}
+img{
+    height: 200px;
+    padding: 15px;
+}

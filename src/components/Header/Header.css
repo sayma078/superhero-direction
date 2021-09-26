@@ -1,6 +1,11 @@
 .header{
-    background-color: bisque;
+    background-color: lightcoral;
+    border: 3px solid crimson;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    /* margin-left: 50px; */
     text-align: center;
     /* align-items: center; */
-    width: 75%;
+    /* width: 75%; */
 }
